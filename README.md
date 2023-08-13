@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Intrigued by data-driven world and determined to explore further into the world of data science, data analysis and machine learning. 
+
+
 <!--
 **veekool/veekool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
