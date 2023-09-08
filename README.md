@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Intrigued by data-driven world and determined to explore further into the world of data science, data analysis and machine learning. 
+Intrigued by data-driven world and determined to explore further into the field of data science, data analysis and machine learning. 
 
 
 <!--
